@@ -1,0 +1,8 @@
+﻿.env
+.dotnet/
+.tools/
+.npm-cache/
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
